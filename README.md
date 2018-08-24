@@ -45,6 +45,8 @@ https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv => Lect
 
 https://www.youtube.com/watch?v=ArPaAX_PhIs&index=1&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF => Contains explanation about weightage method
 https://www.youtube.com/watch?v=XuD4C8vJzEQ&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF&index=2 => Contains vertical edge detection operation
+https://docs.microsoft.com/en-us/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-01-create-project?view=vs-2017  => Python, Flask using Visual Studio
+
 ====================================================================================================================
 Samiran Da
 ==========
