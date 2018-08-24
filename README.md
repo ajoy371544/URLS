@@ -81,6 +81,9 @@ javapoint.com
 Node JS
 -------
 
+.Net Links:
+============
+https://www.codeproject.com/Articles/616065/Why-Where-and-How-of-NET-Configuration-Files => Link for .Net config files
 
 Hackathons:
 -----------
