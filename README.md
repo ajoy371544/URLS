@@ -84,6 +84,7 @@ Node JS
 .Net Links:
 ============
 https://www.codeproject.com/Articles/616065/Why-Where-and-How-of-NET-Configuration-Files => Link for .Net config files
+https://docs.microsoft.com/en-us/aspnet/aspnet/overview/developing-apps-with-windows-azure/building-real-world-cloud-apps-with-windows-azure/continuous-integration-and-continuous-delivery
 
 Hackathons:
 -----------
