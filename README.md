@@ -1,4 +1,5 @@
 
+
 # URLS
 Repository contains important links relatd to .Net and other Courses.
 
@@ -29,6 +30,7 @@ Computer vision and Deep Learning course:
 =========================================
 https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
 https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/  :> by Adrian Rosebrock
+https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/
 https://towardsdatascience.com/basics-of-image-classification-with-keras-43779a299c8b
 https://towardsdatascience.com/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085
 
