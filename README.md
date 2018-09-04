@@ -40,9 +40,12 @@ https://towardsdatascience.com/image-augmentation-for-deep-learning-using-keras-
 https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/
 https://stackoverflow.com/questions/43469281/how-to-predict-input-image-using-trained-model-in-keras
+
 https://engmrk.com/module-14-artificial-neural-network/
 https://www.datacamp.com/community/news/how-to-play-with-data-using-logistic-regression-model-ju0zjszaxx
 https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing?utm_source=customerio&utm_medium=email&utm_campaign=course_7823 
+https://www.datacamp.com/community/tutorials/cnn-tensorflow-python
+
 
 https://groups.google.com/forum/?pli=1#!topic/keras-users/BTw7q74oLpw  => Google group on Keras
 
