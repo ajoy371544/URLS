@@ -46,8 +46,9 @@ https://www.datacamp.com/community/news/how-to-play-with-data-using-logistic-reg
 https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing?utm_source=customerio&utm_medium=email&utm_campaign=course_7823 
 https://www.datacamp.com/community/tutorials/cnn-tensorflow-python
 
-
+https://github.com/fchollet/deep-learning-models/releases
 https://groups.google.com/forum/?pli=1#!topic/keras-users/BTw7q74oLpw  => Google group on Keras
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 
 Post on Transfer learning gives worse results than training from scratch: here it is mentioned rmsprop optimizer works fine compared to adam.
 https://groups.google.com/forum/?pli=1#!topic/keras-users/6W4vJeNLVPQ => contains convolution architecture links ***** 
