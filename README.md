@@ -29,9 +29,21 @@ https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mn
 
 Computer vision and Deep Learning course:
 =========================================
+PYRDINO, SWIG,PySENSE, PlanetLab
+
 https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
 https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/
-https://cv-tricks.com/tensorflow-tutorial/keras/
+
+how convolutional neural network works analysis image
+=====================================================
+https://cv-tricks.com/tensorflow-tutorial/keras/ => face detection
+https://www.kdnuggets.com/2017/08/convolutional-neural-networks-image-recognition.html => google cloud vision api to detect face
+https://www.kdnuggets.com/2018/09/essential-math-data-science.html =>Math and Statistics required for ML
+https://www.kdnuggets.com/2018/08/data-scientist-guide-getting-started-docker.html => data science and docker
+https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275 =>Convolution
+
+Question: how trained data stored in a Model and compared during predict with test image? Utility and maths behind dense, activation and maxpooling
+
 https://github.com/spmallick/dlib/tree/master/dlib
 https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/  :> by Adrian Rosebrock
 https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/
