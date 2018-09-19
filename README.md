@@ -42,6 +42,7 @@ https://www.kdnuggets.com/2018/09/essential-math-data-science.html =>Math and St
 https://www.kdnuggets.com/2018/08/data-scientist-guide-getting-started-docker.html => data science and docker
 https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275 =>Derivation of Convolutional Neural Network from Fully Connected Network Step-By-Step
 
+
 Question: how trained data stored in a Model and compared during predict with test image? Utility and maths behind dense, activation and maxpooling? How curve,damage in image are analysed using convolution
 
 https://github.com/spmallick/dlib/tree/master/dlib
@@ -114,5 +115,25 @@ Hackathons:
 -----------
 hackerearth, Codechef, Hacker Rank
 
+Azure DevOps:
+=============
+Have you looked at ,marketplace https://marketplace.visualstudio.com/search?term=Sharepoint&target=AzureDevOps&category=All%20categories&sortBy=Relevance
 
-I created a child branch
+Chetan :- You can use this link for more information https://docs.microsoft.com/en-us/azure/devops/?view=vsts
+you can learn more about the pricing for Azure DevOps here: https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
+
+https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/manage-conditional-access?view=vsts
+Where I can find the documentation for beginner to learn about Azure DevOps: https://azure.microsoft.com/en-us/services/devops/
+
+I would suggest to start free by registering to Azure DevOps Otherwise you can follow demos using the online environment here: https://www.azuredevopslabs.com/
+You can also take sample projects from GitHub https://github.com/MicrosoftDocs. Use Azure pipelines in Github and get started
+Build and deploy your code with Azure Pipelines: https://docs.microsoft.com/en-us/azure/devops/pipelines/index?view=vsts
+Simplify, speed and improve cloud development(Architecture): https://azure.microsoft.com/en-in/solutions/devops/?cdn=disable
+Devops: https://azure.microsoft.com/en-in/solutions/devops/
+Devops: https://azure.microsoft.com/en-us/services/devops/
+https://azure.microsoft.com/en-in/free/free-account-faq/ : Free account
+
+
+GitHub:
+=======
+https://github.community/t5/Support-Protips/The-difference-between-forking-and-cloning-a-repository/ba-p/1372
