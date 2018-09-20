@@ -137,3 +137,8 @@ https://azure.microsoft.com/en-in/free/free-account-faq/ : Free account
 GitHub:
 =======
 https://github.community/t5/Support-Protips/The-difference-between-forking-and-cloning-a-repository/ba-p/1372
+
+
+PointCloud:
+===========
+http://www.itzikbs.com/3d-point-cloud-classification-using-deep-learning  =>3D POINT CLOUD CLASSIFICATION USING DEEP LEARNING – RECENT WORKS
