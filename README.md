@@ -82,6 +82,7 @@ https://aws.amazon.com/tensorflow/
 https://github.com/neokt/car-damage-detective
 
 https://ctsinssbu11.signin.aws.amazon.com/console
+
 atanu /atanu@ipl2017
 ===============================================================================================================
 
@@ -133,6 +134,7 @@ Devops: https://azure.microsoft.com/en-in/solutions/devops/
 Devops: https://azure.microsoft.com/en-us/services/devops/
 https://azure.microsoft.com/en-in/free/free-account-faq/ : Free account
 
+https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/New-deployment-plans-for-Azure-Active-Directory/ba-p/252750 :New deployment plans for Azure Active Directory 
 
 GitHub:
 =======
