@@ -34,6 +34,15 @@ PYRDINO, SWIG,PySENSE, PlanetLab
 https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
 https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/
 
+Real time object recognition opencv android
+===========================================
+https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/ =>Real-time object detection with deep learning and OpenCV
+https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5 =>Real-time and video processing object detection using Tensorflow, OpenCV and Docker
+https://medium.com/@akshikawijesundara/object-recognition-with-opencv-on-android-6435277ab285 =>Object Recognition with OpenCV on Android
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html =>Feature Detection and Description
+https://medium.com/mindorks/detection-on-android-using-tensorflow-a3f6fe423349 =>Real-time Object Detection on Android using Tensorflow
+https://kylewbanks.com/blog/tutorial-square-camera-with-preview-on-android =>Tutorial: Creating a Square Camera (With Preview) on Android
+
 how convolutional neural network works analysis image
 =====================================================
 https://cv-tricks.com/tensorflow-tutorial/keras/ => face detection
